@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Kevin Rodriguez Padilla \[22210428]; l22210428@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
